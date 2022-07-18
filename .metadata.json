@@ -1,9 +1,5 @@
 [
   {
-    "package": "cwbtools",
-    "oncran": true
-  },
-  {
     "package": "polmineR",
     "oncran": true
   },
