@@ -1,14 +1,14 @@
 [
   {
+    "package": "RcppCWB",
+    "oncran": true
+  },
+  {
     "package": "cwbtools",
     "oncran": true
   },
   {
     "package": "polmineR",
-    "oncran": true
-  },
-  {
-    "package": "RcppCWB",
     "oncran": true
   }
 ]

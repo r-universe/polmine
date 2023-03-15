@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RcppCWB"]
+	path = RcppCWB
+	url = https://github.com/polmine/rcppcwb
+	shallow = true
+	registered = true
 [submodule "cwbtools"]
 	path = cwbtools
 	url = https://github.com/polmine/cwbtools
@@ -11,10 +16,5 @@
 [submodule "polmineR"]
 	path = polmineR
 	url = https://github.com/polmine/polminer
-	shallow = true
-	registered = true
-[submodule "RcppCWB"]
-	path = RcppCWB
-	url = https://github.com/polmine/rcppcwb
 	shallow = true
 	registered = true
