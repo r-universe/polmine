@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RcppCWB"]
+	path = RcppCWB
+	url = https://github.com/polmine/rcppcwb
 [submodule "cwbtools"]
 	path = cwbtools
 	url = https://github.com/polmine/cwbtools
 [submodule "polmineR"]
 	path = polmineR
 	url = https://github.com/polmine/polminer
-[submodule "RcppCWB"]
-	path = RcppCWB
-	url = https://github.com/polmine/rcppcwb
